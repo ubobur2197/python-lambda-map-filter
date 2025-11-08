@@ -1,1 +1,0 @@
-# python-lambda-map-filter
